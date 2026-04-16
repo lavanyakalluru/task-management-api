@@ -16,11 +16,11 @@ A backend system built using Spring Boot that allows users to manage tasks with 
 - MySQL
 
 ## API Endpoints
-POST /tasks
-GET /tasks
-GET /tasks/{id}
-PUT /tasks/{id}
-DELETE /tasks/{id}
+- POST /tasks
+- GET /tasks
+- GET /tasks/{id}
+- PUT /tasks/{id}
+- DELETE /tasks/{id}
 
 ## Result
 Working REST API tested using Postman with proper database integration.
